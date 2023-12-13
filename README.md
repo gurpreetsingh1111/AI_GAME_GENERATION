@@ -165,5 +165,5 @@ class Traffic(pygame.sprite.Sprite):
 
 
 
-#**Conclusion**
+# **Conclusion**
 The 2D Racing Game Development project successfully created an entertaining racing game with various features, including dynamic map generation, AI traffic, and scoring mechanisms. The project provided valuable insights into game development concepts, challenges, and opportunities for future enhancements. The game serves as a foundation for further improvements and additions to create a more polished and engaging gaming experience.
