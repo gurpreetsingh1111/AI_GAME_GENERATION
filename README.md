@@ -158,8 +158,10 @@ class Traffic(pygame.sprite.Sprite):
         pass
 
 
-                   Running Environment
- ![Uploading image.png…]()
+                   **Running Environment**
+                   
+![results](https://github.com/gurpreetsingh1111/AI_GAME_GENERATION/assets/84591513/904b2fa2-8f04-45b9-9196-54c2ea302cb0)
+
 
 
 
