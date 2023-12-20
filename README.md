@@ -1,5 +1,5 @@
 # AI_GAME_GENERATION
-
+## Presented By Gurpreet singh (RadicalX ,New York ,USA)
 ## Abstract
 The 2D Racing Game Development project aimed to create an engaging and entertaining racing game using the Pygame library in Python. The game features a player-controlled car navigating through a dynamically generated map, avoiding traffic, and reaching checkpoints. The project integrates various game development concepts, including sprite animation, collision detection, and user input handling.
 Objectives
